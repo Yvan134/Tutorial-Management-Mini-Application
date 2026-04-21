@@ -63,6 +63,7 @@ The app will be available at:
 
 ##  Screenshots
 ![App Screenshot](https://github.com/Yvan134/Tutorial-Management-Mini-Application/blob/main/Screenshot.JPG)
+![App Screenshot](https://github.com/Yvan134/Tutorial-Management-Mini-Application/blob/main/Screenshot2.JPG)
 
 
 
