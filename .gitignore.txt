@@ -1,0 +1,18 @@
+# Heavy Binary files
+*.msi
+*.exe
+*.zip
+
+# Dependency's folders
+node_modules/
+dist/
+target/
+.gradle/
+.mvn/
+
+# IDE and System's files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.log

@@ -1,0 +1,21 @@
+angular est un framework écrit entièrement en typescript 
+
+Un framework est comme une base sur laquelle je peux commencer à coder mm en Javascript
+Par exemple si j'utilise un framework angular pour créer un projet j'aurais juste à
+taper des commandes dans le terminal et le framework va générer tous les documents,
+dépendances, fichiers nécessaires pour que je code juste.
+
+
+Maintenant avec Angular on peut subdiviser l'appli en plusieurs parties
+-Les components: Ce sont les objets que le model va structurer(Par exemple en définissant 
+le type de donnée...)
+-Les services: C'est eux qui permettent au front end de communiquer avec le Backend via les API
+-Les models: Ils permettent de définir les propriétés qu'un objet doit avoir.
+EX: id, user ,name..
+
+Boostrap est un framework CSS
+
+Un DOM(Document object Model) est une représentation structurée d'un document(HTML,...)
+que l'on manipule avec des langages script(JS Typescript...)
+
+Pour lancer angular on tape cette commande ng serve--open
