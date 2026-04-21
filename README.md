@@ -62,6 +62,7 @@ The app will be available at:
 
 
 ##  Screenshots
+https://github.com/Yvan134/Tutorial-Management-Mini-Application/blob/main/Screenshot.JPG
 
 
 ---
