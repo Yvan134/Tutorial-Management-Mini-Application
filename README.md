@@ -57,15 +57,14 @@ ng serve
 The app will be available at:  
  http://localhost:4200/
 
----
+
 
 
 
 ##  Screenshots
-https://github.com/Yvan134/Tutorial-Management-Mini-Application/blob/main/Screenshot.JPG
+![App Screenshot](https://github.com/Yvan134/Tutorial-Management-Mini-Application/blob/main/Screenshot.JPG)
 
 
----
 
 ##  What I Learned
 - Structuring an Angular project using components, services, and routing  
